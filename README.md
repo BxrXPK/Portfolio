@@ -6,7 +6,7 @@
 
 > Hey my Burhan and I'm a **Web and Bot Developer** from Germany.
 > I like exploring and coding since 12 Years now.
-> I'm a **creative**, _problem solving_, **enthusiast** and a _productive_ guy, with a constantly growing love for kick ass products.
+> I'm a **creative**, _problem solving_, **enthusiast** and a _productive_ guy.
 
  - 📫 **Contact:** [E-Mail](burhan.uzun@dci.education)
  - 🔗 **My website:** [No official Website yet](https://google.com/)
