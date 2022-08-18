@@ -9,7 +9,7 @@
 > I'm a **creative**, _problem solving_, **enthusiast** and a _productive_ guy, with a constantly growing love for kick ass products.
 
 <!-- https://i.postimg.cc/PfBC2WDV/28-F225-E0-78-A4-48-B8-8-DE6-72-F002-D2069-D.jpg -->
-<!-- <img align="right" height="250" width="400" alt="JPG" src="https://i.postimg.cc/PfBC2WDV/28-F225-E0-78-A4-48-B8-8-DE6-72-F002-D2069-D.jpg" /> -->
+<!-- <img align="right" height="100" width="100" alt="JPG" src="https://i.postimg.cc/PfBC2WDV/28-F225-E0-78-A4-48-B8-8-DE6-72-F002-D2069-D.jpg" /> -->
 
 <img align="right" alt="GIF" src="https://i.postimg.cc/PfBC2WDV/28-F225-E0-78-A4-48-B8-8-DE6-72-F002-D2069-D.jpg" />
 
