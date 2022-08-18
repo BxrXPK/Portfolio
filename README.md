@@ -8,7 +8,7 @@
 > I like exploring and coding since 12 Years now.
 > I'm a **creative**, _problem solving_, **enthusiast** and a _productive_ guy, with a constantly growing love for kick ass products.
 
- - 📫 **Contact:** E-Mail - burhan.uzun@dci.education
+ - 📫 **Contact:** [E-Mail](burhan.uzun@dci.education)
  - 🔗 **My website:** [No official Website yet](https://google.com/)
 ### Skills
   
