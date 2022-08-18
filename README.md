@@ -1,6 +1,7 @@
 <img src="https://images.cooltext.com/5615528.png" width="252" height="85" alt="BxrDCI" />
 <h1># My Profile</h1>
 <img src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/79731568097599.5b50bca477735.jpg" alt="" width="1100" height="250">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=BxrDCI" alt="BxrDCI" /> </p>
 
 ## General Information
 
@@ -10,6 +11,7 @@
 
  - 📫 **Contact:** [E-Mail](burhan.uzun@dci.education)
  - 🔗 **My website:** [No official Website yet](https://google.com/)
+ 
 ## Skills
   
 > <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"> - Visual Studio Code</code>
@@ -21,7 +23,6 @@
 > <code><img height = "20" src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"> - CSS</code>
 
 > <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"> - Terminal</code>
-
 
 ## GitHub Stats
 
